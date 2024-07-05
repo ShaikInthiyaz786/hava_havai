@@ -1,0 +1,38 @@
+.button-outline{
+  margin: 10px;
+}
+
+.heading{
+  color: #000000;
+  font-weight: bold;
+}
+
+.sidebar-background {
+    background-color: #ffffff; /* White background */
+    padding: 20px; /* Example padding */
+  }
+  
+  .selected {
+    background-color: #f0f0f0; /* Light grey background for selected item */
+    border-radius: 4px; /* Optional: Add border radius for a rounded look */
+    padding: 8px 12px; /* Adjust padding for better spacing */
+  }
+  
+  /* Styling for links/buttons */
+  .Text-link {
+    font-weight: 500;
+    text-decoration: none;
+    color: #000000; /* Black text color */
+    padding: 8px 20px; /* Adjust padding */
+    border-radius: 4px; /* Rounded corners */
+    margin: 4px 0; /* Margin between items */
+  }
+  
+  .Text-link:hover {
+    background-color: #f0f0f0; /* Light grey background on hover */
+  }
+  
+  .Text-link.selected {
+    background-color: #c0c0c0; /* Darker grey background for selected item */
+  }
+  
